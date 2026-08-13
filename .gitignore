@@ -6,6 +6,7 @@ prof
 tsconfig.tsbuildinfo
 .obsidian
 !content/.obsidian
+content/drafts/
 .quartz-cache
 private/
 .replit
